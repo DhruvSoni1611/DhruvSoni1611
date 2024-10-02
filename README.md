@@ -1,7 +1,7 @@
 # MyProfile
 My Git Hub profile, to add the enhanced Vision to my viewers.
 <h1 align="center">Hi 👋, I'm Dhruv Soni</h1>
-<div align="center"><img src="https://github.com/DhurvSoni1603/DhruvSoni1603-/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png"/></div>
+<div align="center"><img src="https://github.com/DhurvSoni1603/DhurvSoni1603-/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png"/></div>
 <h3 align="center">- Tech enthusiast, transforming code into powerful tools. - Automating the future, one commit at a time.</h3>
 <hr/>
 <h3 align="left">Connect with me:</h3>
