@@ -28,7 +28,6 @@ My Git Hub profile, to add the enhanced Vision to my viewers.
 <p><a href="https://www.buymeacoffee.com/Dhruv1611"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Dhruv1611" /></a></p><br><br>
 <hr/><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvsoni1603&show_icons=true&locale=en&layout=compact" alt="dhruvsoni1603" /></p>
-<hr><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvsoni1603&show_icons=true&locale=en" alt="dhruvsoni1603" /></p>
 <hr><br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvsoni1603&" alt="dhruvsoni1603" /></p>
